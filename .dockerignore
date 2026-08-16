@@ -1,0 +1,21 @@
+# ============================================================
+# .dockerignore
+# ============================================================
+
+node_modules
+.next
+.git
+.gitignore
+.env.local
+.env*.local
+README.md
+*.md
+.vscode
+.idea
+coverage
+test
+tests
+__tests__
+*.test.*
+*.spec.*
+jest.config.*
